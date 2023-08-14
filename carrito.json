@@ -1,0 +1,10 @@
+[
+    {
+      "id": "carrito1",
+      "products": [
+        { "product": "productA", "quantity": 2 },
+        { "product": "productB", "quantity": 1 }
+      ]
+    }
+  ]
+  
